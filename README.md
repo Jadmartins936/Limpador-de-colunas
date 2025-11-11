@@ -11,7 +11,7 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
  - Remoção automática de colunas com **presets pré-configurados**
  - Opção de **edição manual** das colunas a serem removidas
  - Geração de **3 novas planilhas**:
-   - Planilha Original (com colunas filtradas)
+   - Planilha Original (com colunas removidas)
    - Planilha 1
    - Planilha 2
  - Download único em **arquivo ZIP**
@@ -22,8 +22,6 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
 - Python **3.9 ou superior**
 - Bibliotecas Python (instalação abaixo)
 
-- Python **3.9 ou superior**
-- Bibliotecas Python (instalação abaixo)
 
 
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+
