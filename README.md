@@ -1,6 +1,10 @@
-# Limpador de colunas para planilhas
+<h1 align="center">🧮 Limpador de colunas para planilhas</h1>
 
-![Logo do projeto](./assets/python.svg) ![Logo do projeto](./assets/streamlit.svg) ![Logo do projeto](./assets/pandas.svg)
+<p align="center">
+  <img src="./assets/python.svg" width="60" alt="Python Logo" />
+  <img src="./assets/streamlit.svg" width="60" alt="Streamlit Logo" />
+  <img src="./assets/pandas.svg" width="60" alt="Pandas Logo" />
+</p>
 
 O script desenvolvido em python juntamente com streamlit visa fazer a manipulação de planilhas, excluindo colunas de forma automática e manual possibilitando a criação de novas planilhas de maneira prática e rápida.
 
