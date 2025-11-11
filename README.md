@@ -1,9 +1,9 @@
 <h1 align="center">🧮 Limpador de colunas para planilhas</h1>
 
 <p align="center">
-  <img src="./assets/python.svg" width="60" alt="Python Logo" />
-  <img src="./assets/streamlit.svg" width="60" alt="Streamlit Logo" />
-  <img src="./assets/pandas.svg" width="60" alt="Pandas Logo" />
+![Logo do projeto](./assets/python.svg)
+![Logo do projeto](./assets/streamlit.svg) 
+![Logo do projeto](./assets/pandas.svg)
 </p>
 
 ### 💡 Descrição
