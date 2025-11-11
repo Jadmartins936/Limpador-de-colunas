@@ -17,12 +17,12 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
  - Download único em **arquivo ZIP**
  - Interface moderna e leve feita com Streamlit
 
-## ⚙️ Requisitos
+### ⚙️ Requisitos
 
 - Python **3.9 ou superior**
 - Bibliotecas Python (instalação abaixo)
 
-## 📦 Instalação
+### 📦 Instalação
 
 1. **Clone o repositório** ou baixe o ZIP
 2. Descompacte o arquivo
@@ -43,6 +43,13 @@ streamlit run process_planilhas.py
 ```bash
 Local URL: http://localhost:8501
 ```
+
+### 🚀 Uso
+1. Faça o upload da planilha original.
+2. Selecione a caixa de marcação para usar o preset e excluir colunas pré-definidas automáticamente.
+3. (Opcional) Se quiser, selecione manualmente as colunas que deseja manter ou excluir além daquelas disponíveis pelo preset.
+4. Clique em **Gerar Planilhas**.
+5. Baixe o arquivo `.zip` contendo as três novas planilhas.
 
 
 
